@@ -1,87 +1,100 @@
-# A project By TeamScenario
+━━━━━━━━━━━━━━━━━━━━
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
-• A star 🌟 from you means a lot please star if you liked this project.
-<span style="color:blue">some Hello text</span>. 
-<br>
-
-# <mark>Things to be noted</mark>
-#### All images are clickable!!
-#### click on ▶ to reveal that section!
-
-1. To update your app on heroku use /update command if error use /gitpull</mark>
-
-### Most important vars
-
-| Vars | from where to get |
-| ----------- | ----------- |
-| API_ID | Get it from my.telegram.org |
-| API_HASH | Get it from my.telegram.org |
-| TOKEN | from @BotFather |
-| OWNER_ID | DM @ScenarioXbot and send /id |
-| DEV_USERS | same as OWNER_ID |
-| String | use @StringFatherBot (Telethon session)| 
+<!--
+**AloneXBot/AloneXBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-> Scenario is the most Advanced telegram bot to manage your groups. 
-Demo bot - @anonymous_4_robot
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/team-katil/count.svg" />
+</p>
 
-## How to Deploy 
-<details>
-<summary><b>🔗 Deploy on Heroku</b></summary>
-<br>
 
-> All vars are already filled and some are optional not filling them will not make big difference.
 
-> <b>First fork this repo!!</b>
 
-• before that please star 🥺
-
-• Click here to fork ↓
-<p><a href="https://github.com/TeamScenario/Scenario/fork"><img src="https://telegra.ph/file/8b61f6edc2a35c473ddff.jpg" alt="Press to Takeoff" width="490px"></a></p>
+<h2 align="center">
+    ──「 𝗜𝗡𝗗𝗢𝗥𝗜 ✘ 𝗩𝗘𝗚𝗘𝗧𝗔  」──
     
-<h4>Click the button below to deploy Scenario on Heroku!</h4>    
-<p><a href="https://teamscenario.blogspot.com/heroku-deployer"><img src="https://telegra.ph/file/57c4edb389224c9cf9996.png" alt="Press to Takeoff" width="490px"></a></p>
-</details>
-<details>
-<summary> 🍀 Update heroku app with CLI 🍀</summary>
+
+★ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+Rohit+🎭">
+<p align="center">
+  <img src="https://telegra.ph/file/83f69d94bd7d988880444.jpg">
+</p>
+
+**𝘽𝙊𝙏 ➣ [𝗜𝗡𝗗𝗢𝗥𝗜 𝗫 𝗩𝗘𝗚𝗘𝗧𝗔](http://t.me/KIDZWORLD_bot)**
+
+<p align="center">
+<a href="https://github.com/RohitXBot/RohitXMusic/stargazers"><img src="https://img.shields.io/github/stars/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/RohitXBot/RohitXMusic/network/members"> <img src="https://img.shields.io/github/forks/AloneXBot/AloneXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/RohitXBot/RohitXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/RohitXBot/RohitXMusic/commits/AloneXBot"> <img src="https://img.shields.io/github/last-commit/AloneXBot/AloneXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
 
 
-- [x] Android compatible 
-- [x] Android 7 and above
-- [ ] Below Android 7
 
-<p><a href="https://github.com/TeamScenario/Heroku-Cli-Termux-Android/tree/TeamScenario"><img src="https://telegra.ph/file/ec51eb578a1b73bf495fe.jpg" alt="Press to Takeoff" width="490px"></a></p>
-</details>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
 
-<details>
-<summary><b>Deploy on Vps / local machine</b></summary>
-<br>
+    
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-> We don't provide support for vps deployment so don't come to us with your problems!
-    </br>
-#### First fill all vars in config.py
-```console
-git clone https://github.com/TeamScenario/Scenario && cd Scenario && pip3 install -U -r requirements.txt && python -m scenario
-```
-If android then execute this cd command ```cd /storage/emulated/0/scenario``` else only cd Scenario
-</details>
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+</h3>
 
-<details>
-<summary>Contact us 🌟</summary>
-<p align="center"><a href="https://t.me/The_Arc_Music"><img src="https://telegra.ph/file/50c21b237d00309571e00.jpg" width="2000"></a></p>
- 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact us
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SHOKINx2/MANAGEMENTXBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40ScenarioSupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DScenarioSupport&longCache=true%22)](https://t.me/ScenarioSupport)
-[![Channel](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40TeamScenario&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DTeamScenario&longCache=true%22)](https://t.me/TeamScenario)
-</details>
-  
+<h2 align="center">
 
-## TODO
-- [ ] Better readme
-- [x] Less vars to fill
-- [ ] Design improvement
+🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
+<p align="center">
+<a href="https://telegram.me/III_JAI_SHREE_RAM_III"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗬𝗢𝗨𝗥 𝗕𝗔𝗕𝗬 亗%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
-[^TeamScenario]
-[^TeamScenario]: *©2022 TeamScenario All rights reserved!*
+- Get your [Necessary Variables](https://github.com/RohitXBot/RohitXMusic/blob/master/sample.env)
+- Upgrade and Update by :
+`sudo apt-get update && sudo apt-get upgrade -y`
+- Install Ffmpeg by :
+`sudo apt-get install python3-pip ffmpeg -y`
+- Install required packages by :
+`sudo apt-get install python3-pip -y`
+- Install pip by :
+`sudo pip3 install -U pip`
+- Install Node js by :
+`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+- Clone the repository by :
+`git clone https://github.com/AloneXBot/AloneXMusic && cd zedzemusic`
+- Install requirements by :
+`pip3 install -U -r requirements.txt`
+- Fill your variables in the env by :
+`vi sample.env`<br>
+Press `I` on the keyboard for editing env<br>
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+- Rename the env file by :
+`mv sample.env .env`
+- Install tmux to keep running your bot when you close the terminal by :
+`sudo apt install tmux && tmux`
+- Finally run the bot by :
+`bash start`
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/AloneXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
